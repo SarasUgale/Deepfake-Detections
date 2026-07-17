@@ -284,11 +284,4 @@ This project is licensed under the **MIT License**.
 
 Feel free to use, modify, and distribute this project for educational and research purposes.
 
----
 
-<div align="center">
-
-### 🛡️ DeepShield AI
-**Protecting Digital Trust with AI-Powered Deepfake Detection**
-
-</div>
